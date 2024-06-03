@@ -403,6 +403,9 @@ cursor: pointer;
         margin-left: 20px;
         margin-bottom: 20px;
     }
+    .hero-img{
+        display:none;
+    }
      .question img{
         width: 550px;
         height: 450px;
